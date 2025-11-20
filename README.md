@@ -5,4 +5,8 @@ Hello. This is the first change.
 <git switch name> switch to name
 <git switch -c main>: create <name> and switch to it on one go from HEAD
 
+
+git fetch --prune:
+
+
 when you push a branch to git hub. it will automatically update the PR.
