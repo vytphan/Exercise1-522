@@ -6,3 +6,5 @@ Hello. This is the first change.
 <git switch -c main>: create <name> and switch to it on one go from HEAD
 
 when you push a branch to git hub. it will automatically update the PR.
+
+git branch -d name: will delete brnach 
